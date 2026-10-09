@@ -1,0 +1,13 @@
+{
+  "name": "euch-fight",
+  "version": "1.0.0",
+  "description": "Euch Fight - browser 3D fighting game with online rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo ok"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
